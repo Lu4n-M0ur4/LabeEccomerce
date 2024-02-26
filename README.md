@@ -1,4 +1,4 @@
-<h1>Projeto Frontendreact 🔥</h1> 
+<h1>Projeto LabeEccomerce 🔥</h1> 
 
 ### Este é o repositório oficial do Projeto, um aplicativo de compras online desenvolvido com Vite e a biblioteca Lucide/ StyledComponents. Este arquivo README fornecerá todas as informações necessárias para entender e utilizar o projeto.
 ### Deploy: [https://lu4n-m0ur4.github.io/projeto-frontendreact/](https://lu4n-m0ur4.github.io/LabeEccomerce/)
