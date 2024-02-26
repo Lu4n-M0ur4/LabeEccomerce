@@ -46,7 +46,7 @@ Utilize os pacotes de instalação npm (versão 9.7.2) ou yarn (versão v4.0.0-r
 2. Clone este repositório:
 shell
 Copy code
-git clone https://github.com/Lu4n-M0ur4/projeto-frontendreact.git
+git clone https://github.com/Lu4n-M0ur4/LabeEccomerce/
 
 3. Acesse o diretório do projeto:<br>
 + No GitBash ou shell
